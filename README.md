@@ -13,8 +13,7 @@ Esta aplicación permite gestionar los siguientes items:
 
 [Online Access](http://sd-1254248-h00006.ferozo.net/)
 
-´´´
+```
 Usuario Demo: admin
 Password Demo: admin
-
-´´´
+```
